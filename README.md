@@ -5,5 +5,7 @@
   <ul>
     <li>Java/li>
     <li>Python</li>
+    <li>MySQL</li>
+    <li>C++</li>
   </ul>
 </h4>
